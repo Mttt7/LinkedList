@@ -1,0 +1,27 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mttt7/LinkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mttt7/LinkedList/issues"
+  },
+  "homepage": "https://github.com/Mttt7/LinkedList#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
